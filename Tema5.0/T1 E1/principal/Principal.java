@@ -10,7 +10,7 @@ public class Principal {
 		Vaca miVaca2=new Vaca(18, "Jacinto");
 		Vaca miVaca3=new Vaca("Marron", 5, "Javier");
 		
-		System.out.println();
+		System.out.println("IBAI");
 		
 		miVaca1.muu();
 		miVaca2.muu();
